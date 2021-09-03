@@ -49,6 +49,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 - Ian Bendiburg
-- Twitter - [@Burg3rTV](https://twitter.com/Burg3rTV)
+- Github - [Github Account](https://github.com/ibendiburg)
+- CodeWarrs - [Code Wars Account](https://www.codewars.com/users/ibendiburg)
+- Twitter - [@Burg3rTV](https://www.twitter.com/Burg3rTV)
 
 
