@@ -34,7 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/ibendiburg/FrontEndMentor-Challenge1-Solution)
+- Solution live site: [LiveWebsite](https://front-end-mentor-challenge1-solution.vercel.app/) 
 
 ## My process
 
